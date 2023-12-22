@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1689376547 source:e:\les cours\lc\gestion immobiliere\immobiliere.c
+	"immobiliere.h"
+
+1689372925 e:\les cours\lc\gestion immobiliere\immobiliere.h
+	<stdio.h>
+	<stdlib.h>
+
+1687450403 e:\les cours\lc\gestion immobiliere\myfunction.h
+	<stdio.h>
+
+1689377032 source:e:\les cours\lc\gestion immobiliere\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myFunction.h"
+	"immobiliere.h"
+
+1689381468 source:e:\github\gestion immobiliere\immobiliere.c
+	"immobiliere.h"
+
+1689372925 e:\github\gestion immobiliere\immobiliere.h
+	<stdio.h>
+	<stdlib.h>
+
+1703246132 source:e:\github\gestion immobiliere\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myFunction.h"
+	"immobiliere.h"
+
+1687450403 e:\github\gestion immobiliere\myfunction.h
+	<stdio.h>
+
